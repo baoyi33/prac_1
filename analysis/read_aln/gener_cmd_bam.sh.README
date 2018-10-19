@@ -1,0 +1,2 @@
+python ../../scripts/gener_cmd_bam.py ../../data/raw/SRR_Acc_List.txt ../../data/ref/yeast_ref ../../data/raw/ > gener_cmd_bam.sh
+
